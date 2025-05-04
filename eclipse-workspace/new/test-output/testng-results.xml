@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-25T12:57:02 IST" name="Default suite" finished-at="2024-09-25T12:57:12 IST" duration-ms="9637">
+    <groups>
+    </groups>
+    <test started-at="2024-09-25T12:57:02 IST" name="Default test" finished-at="2024-09-25T12:57:12 IST" duration-ms="9637">
+      <class name="pack2.acc1">
+        <test-method is-config="true" signature="open()[pri:0, instance:pack2.acc1@7b9a4292]" started-at="2024-09-25T12:57:02 IST" name="open" finished-at="2024-09-25T12:57:06 IST" duration-ms="3630" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open -->
+        <test-method signature="runtestcases()[pri:0, instance:pack2.acc1@7b9a4292]" started-at="2024-09-25T12:57:06 IST" name="runtestcases" finished-at="2024-09-25T12:57:12 IST" duration-ms="5955" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runtestcases -->
+        <test-method is-config="true" signature="close()[pri:0, instance:pack2.acc1@7b9a4292]" started-at="2024-09-25T12:57:12 IST" name="close" finished-at="2024-09-25T12:57:12 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- pack2.acc1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
